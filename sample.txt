@@ -1,3 +1,6 @@
 // branch1で追加
 
+// merge後のmasterで追加
+
 //banch1で追加(2)
+
